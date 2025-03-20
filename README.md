@@ -22,3 +22,4 @@
 
 의 결과를 비교하여 각 방법에 따라 어떻게 최적의 정책이 변하는지, 가치함수의 값이 측정되는지 비교해보았습니다
 
+![Image](https://github.com/user-attachments/assets/cce3f67d-0dd0-4b76-8c10-ce54029edfa1)
